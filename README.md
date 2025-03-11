@@ -124,7 +124,7 @@ This project is **MIT Licensed**. Feel free to use and improve it! 🚀
 
 ## **📞 Contact**
 👨‍💻 **Developed by:** _Your Name_  
-📧 **Email:** nitinprofessional7838.@gmail.com_  
+📧 **Email:** nitinprofessional7838.@gmail.com
 🌐 **GitHub:** [WithTrend](https://github.com/withTrend)  
 
 ---
